@@ -37,4 +37,4 @@ Bachelor's degree
 -----
 ### Social media
 
-[LinkenIn](https://www.linkedin.com/in/yulia-pal-kina-73911575/ "Мой профиль в Линкедине")
+[LinkedIn](https://www.linkedin.com/in/yulia-pal-kina-73911575/ "Мой профиль в Линкедине")
