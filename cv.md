@@ -7,7 +7,9 @@
 ### Contacts
 
 **Phone number**: +996 555 67 92 70
+
 **Country**: Kyrgyzstan
+
 **Telegram**: \@Yulia_illiriya
 
 -----
@@ -27,3 +29,8 @@ As a plus, I have strong soft skills - I worked for years as a journalist and PR
 * Git
 * Docker
 * HTML/CSS
+
+### Education
+**Novosibirsk State University, 2010**
+
+Bachelor's degree
