@@ -34,3 +34,7 @@ As a plus, I have strong soft skills - I worked for years as a journalist and PR
 **Novosibirsk State University, 2010**
 
 Bachelor's degree
+-----
+### Social media
+
+[LinkenIn](https://www.linkedin.com/in/yulia-pal-kina-73911575/ "Мой профиль в Линкедине")
