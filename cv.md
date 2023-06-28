@@ -10,7 +10,7 @@
 
 **Country**: Kyrgyzstan
 
-**Telegram**: \@Yulia_illiriya
+**Telegram**: @Yulia_illiriya
 
 -----
 
