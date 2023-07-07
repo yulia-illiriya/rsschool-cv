@@ -19,7 +19,7 @@
     <h3>About me</h3>
     <p>I am an open-minded, easy-going and smart person. I love my life, my work, 
         the people around me and the new tasks. Every day I try to learn something - and I finally want to change 
-        my direction and start new one. 
+        my direction and start new one.</p>
 
     <p>As a plus, I have strong soft skills - I worked for years as a journalist and PR manager. 
         Now I am learning IT, and hope to reach new heights.</p>
@@ -36,8 +36,7 @@
         </ul>
     <h3>Examples</h3>
         <code>
-            <pre>
-                class NewOrderSerializer(serializers.ModelSerializer):
+            class NewOrderSerializer(serializers.ModelSerializer):
                     client_name = serializers.SerializerMethodField()
 
                     class Meta:
@@ -51,8 +50,7 @@
                         client_name = self.context['request'].data.get('client_name')
                         client, _ = Client.objects.get_or_create(full_name=client_name)
                         validated_data['client_id'] = client.id
-                        return super().create(validated_data)    
-            </pre>
+                        return super().create(validated_data)
         </code>
     <h3>Expirience</h3>
         <p>
@@ -67,7 +65,7 @@
         <li><strong>Russian</strong> - native speaker</li>
         <li><strong>English</strong> - Upper-Intermediate (B2)</li>
         <li><strong>French</strong> - Intermediate (DELF B2 - 2012)</li>
-        <li><strong>Kyrgyx</strong> - Beginner (A2) </li>
+        <li><strong>Kyrgyx</strong> - Beginner (A2)</li>
     </ul>
 
     
