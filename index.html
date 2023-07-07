@@ -1,69 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>My CV</title>
-      <link rel="stylesheet" href="style.css">
-   </head>
-   <body>
-      <h1>Yulia Pal'kina</h1>
-      <h2>Web Developer | Python | JS</h2>
-      <img src="imgs/me.jpg" alt="My photo" height="500">
-      <h3>Contacts</h3>
-      <ul>
-         <li>Phone number: +996 555 67 92 70</li>
-         <li>Country: Kyrgyzstan</li>
-         <li>Telegram: @Yulia_illiriya</li>
-      </ul>
-      <h3>About me</h3>
-      <p>I am an open-minded, easy-going and smart person. I love my life, my work,
-         the people around me and the new tasks. Every day I try to learn something - and I finally want to change
-         my direction and start new one.
-      </p>
-      <p>As a plus, I have strong soft skills - I worked for years as a journalist and PR manager.
-         Now I am learning IT, and hope to reach new heights.
-      </p>
-      <h3>Skills</h3>
-      <ul>
-         <li>Bash</li>
-         <li>Python</li>
-         <li>Linux</li>
-         <li>Git</li>
-         <li>Docker</li>
-         <li>HTML/CSS</li>
-         <li>Django Rest Framework</li>
-         <li>JavaScript</li>
-      </ul>
-      <h3>Examples</h3>
-      <code>
-      class NewOrderSerializer(serializers.ModelSerializer):
-      client_name = serializers.SerializerMethodField()
-      class Meta:
-      model = NewOrder
-      fields = ['description', 'price', 'color', 'client_name', 'received_date', 'delivery_date']
-      def get_client_name(self, obj):
-      return obj.client.full_name
-      def create(self, validated_data):
-      client_name = self.context['request'].data.get('client_name')
-      client, _ = Client.objects.get_or_create(full_name=client_name)
-      validated_data['client_id'] = client.id
-      return super().create(validated_data)
-      </code>
-      <h3>Expirience</h3>
-      <p>
-         We worked on educational projects involving the development of small applications 
-         (such as courses and a parking system) as a team, creating RESTful requests and 
-         developing the necessary models and relationships.
-      </p>
-      <h3>Education</h3>
-      <p></p>
-      <h3>Languages</h3>
-      <ul>
-         <li><strong>Russian</strong> - native speaker</li>
-         <li><strong>English</strong> - Upper-Intermediate (B2)</li>
-         <li><strong>French</strong> - Intermediate (DELF B2 - 2012)</li>
-         <li><strong>Kyrgyx</strong> - Beginner (A2)</li>
-      </ul>
-   </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
 </html>
