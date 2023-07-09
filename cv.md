@@ -10,13 +10,13 @@
 
 **Country**: Kyrgyzstan
 
-**Telegram**: \@Yulia_illiriya
+**Telegram**: @Yulia_illiriya
 
 -----
 
-## About me 
+## About me
 
-I am an open-minded, easy-going and smart person. I love my life, my work, the people around me and the new tasks. Every day I try to learn something - and I finally want to change my direction and start new one. 
+I am an open-minded, easy-going and smart person. I love my life, my work, the people around me and the new tasks. Every day I try to learn something - and I finally want to change my direction and start new one.
 
 As a plus, I have strong soft skills - I worked for years as a journalist and PR manager. Now I am learning IT, and hope to reach new heights.
 
